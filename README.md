@@ -24,5 +24,6 @@ Pagos con Stripe. Desplegado en Polygon Amoy.
 
 ## 📫 Contacto
 
-- LinkedIn: [tu linkedin aquí]
-- Email: [tu email aquí]
+- LinkedIn: https://www.linkedin.com/in/juanmoreno2327/
+- Email: juandavidm1923@gmail.com
+  
