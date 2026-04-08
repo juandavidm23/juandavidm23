@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Juan David Moreno 👋
 
-<!--
-**juandavidm23/juandavidm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Informática en el Colegio Mayor del Cauca, 
+Popayán, Colombia.
 
-Here are some ideas to get you started:
+Me enfoco en desarrollo Web3 — construyo smart contracts y los conecto 
+con interfaces reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+
+- **Blockchain:** Solidity, Web3j, Polygon (Amoy testnet)
+- **Frontend:** React, Vite, TypeScript
+- **Backend:** Spring Boot, Java
+- **Base de datos:** MySQL
+- **Herramientas:** Git, ClickUp
+
+## 🚀 Proyectos destacados
+
+**Tsegura** — Plataforma de ticketing académica basada en blockchain.
+Smart contracts para minting, validación QR y reventa de entradas.
+Pagos con Stripe. Desplegado en Polygon Amoy.
+
+**canchApp** — App de reserva de canchas deportivas.
+
+## 📫 Contacto
+
+- LinkedIn: [tu linkedin aquí]
+- Email: [tu email aquí]
