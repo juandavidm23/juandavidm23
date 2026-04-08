@@ -9,9 +9,9 @@ Me interesa desarrollar soluciones que no solo funcionen, sino que **generen imp
 
 * 💻 Experiencia en desarrollo con principios SOLID **frontend, backend y testing**
 * 🧪 Interés en **QA Automation y calidad de software**
-* 📊 Formación en **análisis de datos**
+* 📊 Formación extra en **análisis de datos y blockchain**
 * 🤖 Explorando **Machine Learning aplicado a productos**
-* ⚡ Mentalidad de aprendizaje constante y resolución de problemas
+* ⚡ Mentalidad de aprendizaje, resolución de problemas y liderazgo tecnico
 
 
 
