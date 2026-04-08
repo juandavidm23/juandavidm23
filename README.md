@@ -4,7 +4,6 @@
 
 Me interesa desarrollar soluciones que no solo funcionen, sino que **generen impacto real en usuarios y negocio**.
 
----
 
 ## 🧠 Sobre mí
 
@@ -14,7 +13,7 @@ Me interesa desarrollar soluciones que no solo funcionen, sino que **generen imp
 * 🤖 Explorando **Machine Learning aplicado a productos**
 * ⚡ Mentalidad de aprendizaje constante y resolución de problemas
 
----
+
 
 ## 🔥 En qué estoy enfocado ahora
 
@@ -22,13 +21,11 @@ Me interesa desarrollar soluciones que no solo funcionen, sino que **generen imp
 * Mejorar en **testing automatizado**
 * Desarrollar sistemas con **enfoque en producto y usuario**
 
----
 
 ## 🎯 Objetivo
 
 Convertirme en un **Software Engineer que combine desarrollo + data + IA**, capaz de construir soluciones completas y escalables.
 
----
 
 ## 📫 Contacto
 
