@@ -1,25 +1,25 @@
 # 👋 Hola, soy Juan Moreno
 
-🚀 Estudiante de ultimo año en Ingenieria Informatica desarollando un perfil Fullstack Developer con enfoque en construir productos reales, integrando **software, datos e inteligencia artificial**.
+Estudiante de ultimo año en Ingenieria Informatica desarollando un perfil Fullstack Developer con enfoque en construir productos reales, integrando **software, datos e inteligencia artificial**.
 
 Me interesa desarrollar soluciones que no solo funcionen, sino que **generen impacto real en usuarios y negocio**.
 
 
 ## 🧠 Sobre mí
 
-* 💻 Experiencia en desarrollo con principios SOLID **frontend, backend y testing**
-* 🧪 Interés en **QA Automation y calidad de software**
-* 📊 Formación extra en **análisis de datos y blockchain**
-* 🤖 Explorando **Machine Learning aplicado a productos**
-* ⚡ Mentalidad de aprendizaje, resolución de problemas y liderazgo tecnico
+* Experiencia en desarrollo con principios SOLID para frontend, backend y testing
+* Interés en QA Automation y calidad de software
+* Formación extra en análisis de datos y blockchain
+* Explorando Machine Learning aplicado a productos
+* Mentalidad de aprendizaje, resolución de problemas y liderazgo tecnico
 
 
 
 ## 🔥 En qué estoy enfocado ahora
 
-* Construir proyectos **fullstack con integración de IA**
-* Mejorar en **testing automatizado**
-* Desarrollar sistemas con **enfoque en producto y usuario**
+* Construir proyectos fullstack con integración de IA
+* Mejorar en testing y generar scripts para automatizarlo
+* Desarrollar sistemas con enfoque en producto y usuario
 
 
 ## 🎯 Objetivo
