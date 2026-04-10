@@ -1,8 +1,8 @@
 # 👋 Hola, soy Juan Moreno
 
-Estudiante de ultimo año en Ingenieria Informatica desarollando un perfil Fullstack Developer con enfoque en construir productos reales, integrando **software, datos e inteligencia artificial**.
+Estudiante de ultimo año en Ingenieria Informatica desarollando un perfil Fullstack Developer con enfoque en construir productos reales, integrando software, datos e inteligencia artificial.
 
-Me interesa desarrollar soluciones que no solo funcionen, sino que **generen impacto real en usuarios y negocio**.
+Me interesa desarrollar soluciones que no solo funcionen, sino que generen impacto real en usuarios y negocio.
 
 
 ## 🧠 Sobre mí
