@@ -19,7 +19,7 @@ Me interesa desarrollar soluciones que no solo funcionen, sino que generen impac
 
 * Construir proyectos fullstack con integración de IA
 * Mejorar en testing y generar scripts para automatizarlo
-* Desarrollar sistemas con enfoque en producto y usuario
+* Aprender a como integrar la IA para ser mas eficiente mi trabajo 
 
 
 ## 🎯 Objetivo
