@@ -1,38 +1,64 @@
-# 👋 Hola, soy Juan Moreno
+# Hi, I'm Juan Moreno 👋
+### Frontend Developer · AI & LLMs · Co-founder @ MVC Tech
 
-Estudiante de ultimo año en Ingenieria Informatica desarollando un perfil Fullstack Developer con enfoque en construir productos reales, integrando software, datos e inteligencia artificial.
+Ingeniería de Sistemas student building real products from Popayán, Colombia.  
+I work at the intersection of **frontend development**, **software architecture** and **AI integration** —  
+focused on making things that actually work and feel good to use.
 
-Me interesa desarrollar soluciones que no solo funcionen, sino que generen impacto real en usuarios y negocio.
+---
 
+## 🧠 About me
 
-## 🧠 Sobre mí
+- 🏗️ Co-founder of **MVC Tech** — SaaS & AI agents for small businesses
+- ⚡ Leading **Tsegura**, a blockchain-based ticketing platform (React · Spring Boot · Polygon)
+- 🎨 Passionate about **UX/UI** — functionality isn't enough if it's not intuitive
+- 🤖 Exploring **LLMs and AI APIs** to build smarter, faster products
+- 📐 Drawn to **software architecture** — how systems scale without becoming chaos
+- 🧪 Growing into **QA, Python and data analysis** as next steps
 
-* Experiencia en desarrollo con principios SOLID para frontend, backend y testing
-* Interés en QA Automation y calidad de software
-* Formación extra en análisis de datos y blockchain
-* Explorando Machine Learning aplicado a productos
-* Mentalidad de aprendizaje, resolución de problemas y liderazgo tecnico
+---
 
+## 🔥 Currently focused on
 
+- Building a personal AI agent project with LLM integration
+- Deepening software architecture principles and system design
+- Automating and improving code quality with AI-assisted workflows
 
-## 🔥 En qué estoy enfocado ahora
+---
 
-* Construir proyectos fullstack con integración de IA
-* Mejorar en testing y generar scripts para automatizarlo
-* Aprender a como integrar la IA para ser mas eficiente mi trabajo 
+## 🛠️ Tech Stack
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Objetivo
+---
 
-Convertirme en un **Software Engineer que combine desarrollo + data + IA**, capaz de construir soluciones completas y escalables.
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=juandavidm23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavidm23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-## 📫 Contacto
+---
 
-- LinkedIn: https://www.linkedin.com/in/juanmoreno2327/
-- Email: juandavidm1923@gmail.com
-  
+## 🚀 Projects
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+| Project | Description | Stack |
+|---|---|---|
+| **Tsegura** | Blockchain-based ticketing platform to combat fraud and resale | React · Spring Boot · Polygon · Stripe |
+| **canchApp** | Find and book sports courts in Popayán | React · Spring Boot |
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmoreno2327/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidm1923@gmail.com)
+
 
