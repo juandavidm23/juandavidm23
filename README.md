@@ -9,12 +9,11 @@ focused on making things that actually work and feel good to use.
 
 ## 🧠 About me
 
-- 🏗️ Co-founder of **MVC Tech** — SaaS & AI agents for small businesses
-- ⚡ Leading **Tsegura**, a blockchain-based ticketing platform (React · Spring Boot · Polygon)
-- 🎨 Passionate about **UX/UI** — functionality isn't enough if it's not intuitive
-- 🤖 Exploring **LLMs and AI APIs** to build smarter, faster products
-- 📐 Drawn to **software architecture** — how systems scale without becoming chaos
-- 🧪 Growing into **QA, Python and data analysis** as next steps
+- Co-founder of **MVC Tech** — SaaS & AI agents for small businesses
+- Passionate about **UX/UI** — functionality isn't enough if it's not intuitive
+- Exploring **LLMs and AI APIs** to build smarter, faster products
+- Drawn to **software architecture** — how systems scale without becoming chaos
+- Growing into **QA, Python and data analysis** as next steps
 
 ---
 
@@ -38,23 +37,6 @@ focused on making things that actually work and feel good to use.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandavidm23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavidm23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Tsegura** | Blockchain-based ticketing platform to combat fraud and resale | React · Spring Boot · Polygon · Stripe |
-| **canchApp** | Find and book sports courts in Popayán | React · Spring Boot |
-
----
 
 ## 📫 Let's connect
 
